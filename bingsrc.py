@@ -21,7 +21,7 @@ açısından wdPdd klasörünü yazılımcı ile
 paylaşınız.
 
 
- Coded by AngelRayt
+ Coded by mehmtee
 
                       
 
